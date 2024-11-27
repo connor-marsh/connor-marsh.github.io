@@ -1,3 +1,3 @@
-This is the main content of the web page<br>
-The content from the readme should not show up here
-<img src="assets/images/bellaHug.jpg"><img src="assets/images/ProfessionalHeadshotFreshmanYear"><img src="assets/images/RoboticsDiscoveryDayOliviaAndMe.jpg">
+# Welcome to my portfolio website!<br>
+<a src="Project1.html">My First Project!<\a>
+<img src="assets/images/bellaHug.jpg"><img src="assets/images/ProfessionalHeadshotFreshmanYear.jpg"><img src="assets/images/RoboticsDiscoveryDayOliviaAndMe.jpg">
