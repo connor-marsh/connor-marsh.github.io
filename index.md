@@ -15,9 +15,9 @@ In my first-year at the University of Pittsburgh I took a project based class ca
 * <a href="https://sites.google.com/view/humangamecontroller/home" target="_blank">Wearable Video Game Controller</a>
 
 ###### Links to my socials
-<a href="https://linkedin.com/in/connorbmarsh" target="_blank"><img src="assets/images/bellaHug.jpg" width="100" height="100"></a>
-<a href="https://github.com/connor-marsh" target="_blank"><img src="assets/images/bellaHug.jpg" width="100" height="100"></a>
-<a href="https://www.instagram.com/c.marsh28/" target="_blank"><img src="assets/images/bellaHug.jpg" width="100" height="100"></a>
+<a href="https://linkedin.com/in/connorbmarsh" target="_blank"><img src="assets/images/linkedinLink.png" width="100" height="100"></a>
+<a href="https://github.com/connor-marsh" target="_blank"><img src="assets/images/githubLink.png" width="100" height="100"></a>
+<a href="https://www.instagram.com/c.marsh28/" target="_blank"><img src="assets/images/instagramLink.png" width="100" height="100"></a>
 
 ###### Here is how I'll have my other projects included in this website once I get to it
 * <a href="Project1.html">Sample project page (empty)</a>
