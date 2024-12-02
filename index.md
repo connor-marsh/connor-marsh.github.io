@@ -3,7 +3,7 @@ title: Connor Benjamin Marsh
 ---
 
 
-<span><img src="assets/images/bellaHug.jpg" height="325"><img src="assets/images/ProfessionalHeadshotFreshmanYear.jpg" height="325"><img src="assets/images/RoboticsDiscoveryDayOliviaAndMe.jpg" height="325"></span>
+<span><img src="assets/images/bellaHug.jpg" height="310"><img src="assets/images/ProfessionalHeadshotFreshmanYear.jpg" height="310"><img src="assets/images/RoboticsDiscoveryDayOliviaAndMe.jpg" height="310"></span>
 
 # Welcome to my portfolio website!
 ### This site is currently being developed so there is more content/projects to come
