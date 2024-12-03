@@ -14,10 +14,15 @@ In my first-year at the University of Pittsburgh I took a project based class ca
 * <a href="https://sites.google.com/view/autodogfeeder/home" target="_blank">IoT Dog Feeder App</a>
 * <a href="https://sites.google.com/view/humangamecontroller/home" target="_blank">Wearable Video Game Controller</a>
 
+I also have some other projects that act as standalone websites so I'll link those here
+###### Standalone website links:
+* <a href="https://connor-marsh.github.io/Chess" target="_blank">Chess with AI Opponent</a>
+* <a href="https://connor-marsh.github.io/FracturedIdentity" target="_blank">Videogame I made from scratch (custom engine) for a gamedev competition</a>
+
+###### Here is how I'll have my other projects included in this website once I get to it:
+* <a href="Project1.html">Sample project page (empty)</a>
+
 ###### Links to my socials
 <a href="https://linkedin.com/in/connorbmarsh" target="_blank"><img src="assets/images/linkedinLink.png" width="100" height="100"></a>
 <a href="https://github.com/connor-marsh" target="_blank"><img src="assets/images/githubLink.png" width="100" height="100"></a>
 <a href="https://www.instagram.com/c.marsh28/" target="_blank"><img src="assets/images/instagramLink.png" width="100" height="100"></a>
-
-###### Here is how I'll have my other projects included in this website once I get to it
-* <a href="Project1.html">Sample project page (empty)</a>
