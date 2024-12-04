@@ -25,4 +25,4 @@ I also have some other projects that act as standalone websites so I'll link tho
 ###### Links to my socials
 <a href="https://linkedin.com/in/connorbmarsh" target="_blank"><img src="assets/images/linkedinLink.png" width="100" height="100"></a>
 <a href="https://github.com/connor-marsh" target="_blank"><img src="assets/images/githubLink.png" width="100" height="100"></a>
-<a href="https://www.instagram.com/c.marsh28/" target="_blank"><img src="assets/images/instagramLink.png" width="100" height="100"></a>
+<a href="https://replit.com/@CMan_Coder/" target="_blank"><img src="assets/images/replitLink.png" width="300" height="100"></a>
